@@ -1,4 +1,4 @@
-#  ElectConnect | HackTheNest Winner
+#  ElectConnect | HackTheNest Winner | Congressional App Challenge Winner!
 
 https://apps.apple.com/us/app/elect-connect/id6753926496
 
